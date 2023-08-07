@@ -1,29 +1,31 @@
 .tit{
     position: absolute;
-    top: 5px;
-    left: 700px;
+    top: 0px;
+    left: 730px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgba(2,126,251,1);
 }
-main{
+div{
+    position: absolute;
+    top: 0px;
+    right: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
     position: absolute;
     top: 115px;
     left: 15px;
     color: rgba(2,126,251,1);
+    text-align: center;
 }
-.pratica{
+footer{
     position: absolute;
-    top: 0px;
-    right: 150px;
+    top: 1150px;
 }
-.estudantes{
+img{
     position: absolute;
     top: 450px;
-    right: 450px;
+    left: 450px;
 }
-
 .linkcurso{
     outline: none;
 }
@@ -41,7 +43,7 @@ main{
     border: none; 
     position: absolute; 
     top: 70px; 
-    right: 910px;
+    right: 885px;
     color: black;
 } 
 .btn-1 span { position: relative; display: block; width: 100%; height: 100%; } 
