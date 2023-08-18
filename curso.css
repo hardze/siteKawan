@@ -44,8 +44,9 @@ img{
 }
 .copy{
     position: absolute;
-    top: 905px;
+    top: 926px;
     color: rgba(2,126,251,1);
+    font-size: 22px;
 }
 .btn-1 { background: rgb(0,172,238); 
     background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%); 
