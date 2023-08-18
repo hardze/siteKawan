@@ -1,29 +1,67 @@
 body{
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: rgba(2,126,251,1);
+    text-align:center;
 }
 .tit{
     position: absolute;
-    top: 0px;
-    left: 730px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgba(2,126,251,1);
+    top: -15px;
+    left: 480px;
 }
-div{
+.pratica{
     position: absolute;
-    top: 0px;
-    right: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
-    position: absolute;
-    top: 115px;
+    top: 150px;
     left: 15px;
-    color: rgba(2,126,251,1);
-    text-align:justify;
 }
-img{
+.fundamental{
     position: absolute;
-    top: 450px;
-    left: 450px;
+    top: 215px;
+    left: 15px;
+}
+.kids{
+    position: absolute;
+    top: 275px;
+    left: 670px;
+    height: 40%;
+    width: 30%;
+}
+.medio{
+    position: absolute;
+    top: 650px;
+    left: 15px;
+}
+.med{
+    position: absolute;
+    top: 705px;
+    left: 630px;
+    height: 40%;
+    width: 35%;
+}
+.superior{
+    position: absolute;
+    top: 1085px;
+    left: 15px;
+}
+.super{
+    position: absolute;
+    top: 1145px;
+    left: 660px;
+    height: 30%;
+    width: 30%;
+}
+.explica{
+    position: absolute;
+    top: 1435px;
+    left: 15px;
+}
+.diploma{
+    position: absolute;
+    top: 1535px;
+    left: 710px;
+    height: 30%;
+    width: 25%;
 }
 .linkcurso{
     outline: none;
@@ -36,8 +74,7 @@ img{
 }
 .copy{
     position: absolute;
-    top: 1080px;
-    color: rgba(2,126,251,1);
+    top: 1780px;
 }
 .btn-1 { background: rgb(0,172,238); 
     background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%); 
